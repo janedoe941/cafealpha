@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+A nice and cosy place for me to organize my thoughts and archive them in written form. Better than spamming my friends' chat feeds with half-baked essays whenever a topic comes up that I feel strongly about.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+>*In the rare moments I permitted any stillness, I noted a small fluttering at the pit of my belly, a barely perceptible disturbance. The faint whisper of a word would sound in my head: writing. At first I could not say whether it was heartburn or inspiration. The more I listened, the louder the message became: I needed to write, to express myself through written language not only so that others might hear me but so that I could hear myself. The gods, we are taught, created humankind in their own image. Everyone has an urge to create. Its expression may flow through many channels: through writing, art, or music or through the inventiveness of work or in any number of ways unique to all of us, whether it be cooking, gardening, or the art of social discourse. The point is to honor the urge. To do so is healing for ourselves and for others; not to do so deadens our bodies and our spirits. When I did not write, I suffocated in silence. “What is in us must out,” wrote the great Canadian stress researcher Dr. Hans Selye, “otherwise we may explode at the wrong places or become hopelessly hemmed in by frustrations. The great art is to express our vitality through the particular channels and at the particular speed Nature foresaw for us.*
+<br>
+<br>
+—Gabor Maté, *In the Realm of Hungry Ghosts: Close Encounters with Addiction*
