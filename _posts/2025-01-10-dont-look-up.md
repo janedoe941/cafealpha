@@ -5,14 +5,13 @@ categories:
   - Blog
 tags:
   - Film
+  - Climate
+  - Activism
 ---
 
-<div style="text-align: center;">
-    <img src="../assets/images/2025-01-09-hottest-year.png" alt="Guardian headlines on the climate crisis" width="400"/>
-</div>
-<br \>
+![Guardian headlines on the climate crisis]({{ site.url }}{{ site.baseurl }}/assets/images/2025-01-09-hottest-year.png){: .align-center}
 
-Not a great start to 2025, is it? Last night I was feeling particularly gloomy about the world, so I felt compelled to rewatch *Don't Look Up*, Adam McKay's 2021 satire on the sorry state of US politics and climate inaction. The film received fairly mixed reviews on release, which mirrored my own feelings on the film (I initially gave it 3/5 stars, which felt quite generous at the time). This time around, however, I have to side with <a href="https://www.currentaffairs.org/news/adam-mckay">Nathan J. Robinson</a> and <a href="https://www.theguardian.com/commentisfree/2022/jan/04/dont-look-up-life-of-campaigning">George Monbiot</a>:
+Not a great start to 2025, is it? Last night I was feeling particularly gloomy about the world, so I felt compelled to rewatch *Don't Look Up*, Adam McKay's 2021 satire on the sorry state of US politics and climate inaction. The film received fairly mixed reviews on release, which mirrored my own feelings on the film (I initially gave it 3/5 stars, which felt quite generous at the time). This time around, however, I have to side with <a href="https://www.currentaffairs.org/news/adam-mckay" target="_blank" rel="noopener noreferrer">Nathan J. Robinson</a> and <a href="https://www.theguardian.com/commentisfree/2022/jan/04/dont-look-up-life-of-campaigning" target="_blank" rel="noopener noreferrer">George Monbiot</a>:
 
 >*No wonder journalists have slated it. They've produced a hundred excuses not to watch the climate breakdown satire Don't Look Up: it's "blunt", it's "shrill", it's "smug". But they will not name the real problem: it's about them.*
 
