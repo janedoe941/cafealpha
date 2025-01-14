@@ -1,5 +1,5 @@
 ---
-title: "Tech Sector"
+title: "Recommended Reading List"
 excerpt_separator: "<!--more-->"
 #last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
@@ -22,7 +22,7 @@ This is a continuously expanding list where I will post non-fiction book recomme
 ## ⭐ The Myth of American Idealism
 
 **Noam Chomsky and Nathan J. Robinson, 2024**<br>
-Tags: history, politics, war
+Tags: *history, politics, war*
 
 ![Book cover: The Myth of American Idealism]({{ site.url }}{{ site.baseurl }}/assets/images/cover-myth-american-idealism.png){: .align-left} Noam Chomsky is a 9000-year-old wizard and the leading critic of US foreign policy, with a body of work spanning countless books going back decades. The scale of his work makes it difficult for new readers to get a good overview of it all, which is why [Current Affairs](https://www.currentaffairs.org/) editor-in-chief Nathan J. Robinson decided to compile a single-volume summary of Chomsky's most important insights on the crimes of the US government.
 

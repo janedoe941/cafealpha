@@ -11,7 +11,7 @@ tags:
 ---
 
 
-A commonly heard argument takes the following form: "I think [X] is a good idea in principle, but my individual contribution to [X] is too small to be significant, so why bother?" Let's call this line of thinking the *appeal to futility*. I often hear this argument in relation to veganism—while many non-vegans might concede that avoiding animal products might be desirable in theory, they just don't think that their individual consumption choices have any meaningful impact in light of a globalized world. I would like to examine this argument in more detail, as it contains an important truth while also being quite flawed when taken at face value.
+A commonly heard argument takes the following form: "I think [X] is a good idea in principle, but my individual contribution to [X] is too small to be significant, so why bother?" Let's call this line of thinking the *appeal to futility*. I often hear this argument in relation to veganism—while many non-vegans might concede that avoiding animal products might be desirable in theory, they just don't think that their individual consumption choices have any meaningful impact in a globalized world. I would like to examine this argument in more detail, as it contains an important truth while also being quite flawed when taken at face value.
 
 ## Examining the appeal to futility
 
