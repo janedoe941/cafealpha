@@ -35,7 +35,8 @@ The crux is this: **If the sum of individual actions achieves the desired outcom
 
 Circling back to veganism: I am under no illusion that my individual consumption choices are going to save the planet. Nonetheless, it bears mentioning that a comprehensive study in *Science* shows that avoiding dairy and meat is the [most impactful choice](https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth) consumers can make for the planet, that a plant-based diet could [save 75% of agricultural land](https://ourworldindata.org/land-use-diets), and that the latest [IPCC report](https://www.ipcc.ch/srccl/chapter/chapter-5/) urges a significant increase in plant-based foods and reduction in animal-sourced foods.
 
-![Figure showing that if everyone ate a plant-based diet, we would reduce the amount of land we use for agriculture by 75%](../assets/images/diets-land-use.png)
+
+{% include figure popup=true image_path="/assets/images/diets-land-use.png" alt="Figure showing that if everyone ate a plant-based diet, we would reduce the amount of land we use for agriculture by 75%" %}
 
 
 ## Why individual action is insufficient
