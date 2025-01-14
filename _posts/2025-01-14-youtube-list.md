@@ -5,13 +5,11 @@ excerpt_separator: "<!--more-->"
 categories:
   - List
 tags:
-  - Politics
-  - Economics
-  - History
+  - Media
 toc: true
 ---
 
-This is a continuously expanding list where I will post YouTube content like essays and podcasts that I consider particularly instructive and well-presented. I may at some point be tempted to put a few cat videos on here, but I will try my best to keep feline hijinks to a respectable minimum.
+This is a continuously expanding list where I will post YouTube content like essays and podcasts that I consider particularly instructive and well-presented. I will limit this list to one video per creator, as I'm planning to make a separate list dedicated to entire channels. I may also at some point be tempted to put a few cat videos on here, but I will try my best to keep feline hijinks to a respectable minimum.
 
 
 ## Media Critique
@@ -25,6 +23,21 @@ by Jonas Čeika (CCK Philosophy)
 by Jacob Geller
 
 {% include video id="FtCV421T52s" provider="youtube" %}
+
+**Death Stranding and the Paths we Tread**\
+by LambHoot
+
+{% include video id="VJLzpX57FSw" provider="youtube" %}
+
+**The Unbearable Now: An Interpretation of The Witness**\
+by LambHoot
+
+{% include video id="NOJC62t4JfA" provider="youtube" %}
+
+**How Miyazaki Writes WOMEN**\
+by schnee
+
+{% include video id="QCUKgF3aOsQ" provider="youtube" %}
 
 ## Technology
 
@@ -44,7 +57,20 @@ by Freya Holmér
 **Keeping Score | Gustav Mahler: Origins**\
 by Michael Tilson Thomas
 
-(See also the companion piece: [Keeping Score | Gustav Mahler: Legacy](https://www.youtube.com/watch?v=2qv_vCHZkcg))
-
 {% include video id="v5DfYcT5icY" provider="youtube" %}
 
+See also the companion piece: [Keeping Score | Gustav Mahler: Legacy](https://www.youtube.com/watch?v=2qv_vCHZkcg)
+
+## Urbanism and Transportation
+
+**How Self-Driving Cars will Destroy Cities (and what to do about it)**\
+by Not Just Bikes
+
+{% include video id="040ejWnFkj0" provider="youtube" %}
+
+## Veganism and Animals Liberation
+
+**You Will Never Look at Your Life in the Same Way Again | Eye-Opening Speech!**\
+by Earthling Ed (Ed Winters)
+
+{% include video id="Z3u7hXpOm58" provider="youtube" %}
