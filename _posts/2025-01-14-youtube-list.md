@@ -10,15 +10,29 @@ toc: true
 toc_sticky: true
 ---
 
-This is a continuously expanding list where I will post YouTube content like essays and podcasts that I consider particularly instructive and well-presented. I will limit this list to one video per creator, as I'm planning to make a separate list dedicated to entire channels. I may also be tempted to put a few cat videos on here, but I will try my best to keep feline hijinks to a respectable minimum.
+This is a continuously expanding list where I will post YouTube videos that I consider particularly instructive and well-presented. I will focus primarily on original video essays, rather than unscripted videos or content that was uploaded second-hand. I may also be tempted to put a few cat videos on here, though I will try my best to keep feline hijinks to a respectable minimum.
 
 
-## Media Critique
+## Media Critique and Analysis
+
+### Film
 
 **A Class Analysis of Joker and The Dark Knight**\
 by Jonas Čeika (CCK Philosophy)
 
 {% include video id="-ffkn3MPXGs" provider="youtube" %}
+
+**Media Literacy and Dune**\
+by Jack Saint
+
+{% include video id="QkzlW5x8SKc" provider="youtube" %}
+
+**How Miyazaki Writes WOMEN**\
+by schnee
+
+{% include video id="QCUKgF3aOsQ" provider="youtube" %}
+
+### Video Games
 
 **Does Call of Duty Believe in Anything?**\
 by Jacob Geller
@@ -35,24 +49,30 @@ by Electron Dance
 
 {% include video id="NOJC62t4JfA" provider="youtube" %}
 
-**How Miyazaki Writes WOMEN**\
-by schnee
-
-{% include video id="QCUKgF3aOsQ" provider="youtube" %}
-
-## Technology
+## Technology Critique
 
 **Line Goes Up – The Problem With NFTs**\
 by Dan Olson (Folding Ideas)
 
 {% include video id="YQ_xWvX1n9g" provider="youtube" %}
 
-## Science and Math
+
+## Science, Maths, and Technology
 
 **The Continuity of Splines**\
 by Freya Holmér
 
 {% include video id="jvPPXbo87ds" provider="youtube" %}
+
+**How do Video Game Graphics Work?**\
+by Branch Education
+
+{% include video id="C8YtdC8mxTU" provider="youtube" %}
+
+**An Introduction to Shader Art Coding**\
+by kishimisu
+
+{% include video id="f4s1h2YETNY" provider="youtube" %}
 
 ## Music
 **Keeping Score - Gustav Mahler: Origins**\
@@ -61,6 +81,11 @@ by Michael Tilson Thomas
 {% include video id="v5DfYcT5icY" provider="youtube" %}
 
 See also the companion piece: [Keeping Score - Gustav Mahler: Legacy](https://www.youtube.com/watch?v=2qv_vCHZkcg)
+
+**I'm What the Culture Feeling**\
+by F.D Signifier
+
+{% include video id="AEsf7QmIJTQ" provider="youtube" %}
 
 ## Urbanism and Transportation
 
