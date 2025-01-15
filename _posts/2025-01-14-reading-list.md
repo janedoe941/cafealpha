@@ -9,6 +9,7 @@ tags:
   - Economics
   - History
 toc: true
+toc_sticky: true
 ---
 
 This is a continuously expanding list where I will post non-fiction book recommendations.
