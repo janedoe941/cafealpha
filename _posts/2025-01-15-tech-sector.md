@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 ---
 
-After finishing my PhD, a friend once asked me why I, as a scientific programmer looking for a new position, was avoiding most of the tech sector during my job search. I responded that I consider the tech sector to be "a parasitic cancer on the human soul and life on Earth (with some exceptions)". I feel like I should to elaborate.
+After finishing my PhD, a friend once asked me why I, as a scientific programmer looking for a new position, was avoiding most of the tech sector during my job search. I responded that I consider the tech sector to be "a parasitic cancer on the human soul and life on Earth (with some exceptions)". I feel like I ought to elaborate.
 
 Let's go point by point. 
 
@@ -20,7 +20,7 @@ Let's go point by point.
 
 ## Proliferation of misinformation and erosion of truth
 
-It’s not good when oligarchs own our social media platforms and control our channels of communication. It’s not good when Elon Musk spreads hate, misinformation, conspiracy theories, shitposts, and Nazi historical revisionism to an audience of 200 million followers, boosting his own posts and banning his critics. It’s not good when Zuckerberg decides that now, just before the incoming Trump administration, is the best time to get rid of fact-checking on Meta. And with only a few days left before the US Supreme Court will rule on a likely TikTok ban, a major competitor will have been eliminated, leaving Meta and X free to spread total havoc on public discourse. At this pace, it won't take long before the average American thinks climate change is a hoax invented by "Marxists" and that the holocaust didn't happen, and if it did, it was also perpetrated by "Marxists".
+It’s not good when oligarchs own our social media platforms and control our channels of communication. It’s not good when Elon Musk spreads hate, misinformation, conspiracy theories, shitposts, and Nazi historical revisionism to an audience of 200 million followers, <a href="https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter" target="_blank" rel="noopener noreferrer">boosting his own posts</a> and banning his critics. It’s not good when Zuckerberg decides that now, just before the incoming Trump administration, is the best time to get rid of fact-checking on Meta. And with only a few days left before the US Supreme Court will rule on a likely TikTok ban, a major competitor will have been eliminated, leaving Meta and X free to spread total havoc on public discourse. At this pace, it won't take long before the average American thinks climate change is a hoax invented by "Marxists" and that the holocaust didn't happen, and if it did, it was also perpetrated by "Marxists".
 
 ### Meta's complicity in genocides
 
@@ -34,22 +34,26 @@ AI is currently undermining what little progress tech companies have made on the
 
 ## Generative AI
 
-Has some use cases but also so many problems. The internet is being littered with low-quality, deceptive, misleading bullshit, which is bad for everyone. But it is especially bad for artists, who have to compete with AI-generated garbage that was trained on data stolen from them.
+### A middle finger to artists
+
+GenAI has some use cases but also so many problems. The internet is being littered with low-quality, deceptive, misleading bullshit, which is bad for everyone. But it is especially bad for artists, who have to compete with AI-generated garbage that was trained on data stolen from them.
 
 Graphics programmer and tech artist Freya Holmér recently released a powerful video arguing why *Generative AI Is a Parasitic Cancer* (best skip to 38:04; the beginning is a bit drawn-out). Instead of focusing on energy and copyright issues, this video is more about the value of real art and human communication, and what is lost when we increasingly rely on AI to handle written/creative tasks for us.
 
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
-![YouTube scam ad with deepfake Roger Federer]({{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png){: .align-center}
-
-<figure style="width: 1200px">
+<div style="text-align: center;">
+<figure style="width: 400px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake">
   <figcaption>As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
 </figure>
+</div>
+
+### A gift to scammers and propagandists
 
 Cody Johnston also makes a great point why AI "art" is so popular in certain right-wing circles:
 
-> AI images are a powerful tool for propaganda and misinformation and it is no coincidence that there are just so many shitty AI pictures making Trump look muscular or heroic or cool or kind or good or correct. It is quite simply the official art style of fascism. It's perfect for fascists and liars, isn't it? It completely cuts out creatives and favors corporations instead, it trivializes and devalues art over the need for profit, and it changes the truth to whatever you want it to be. It has that grotesque, fake sheen texture; an illusion of some flawless, beautiful ideal, smoothed over and perfected in a way that makes you nauseous. Not to mention that, thanks to who is making these AI tools, it algorithmically erases minorities and people with disabilities. It's a perfect little Hitler machine.
+> AI images are a powerful tool for propaganda and misinformation and it is no coincidence that there are just so many shitty AI pictures making Trump look muscular or heroic or cool or kind or good or correct. It is quite simply the official art style of fascism. It's perfect for fascists and liars, isn't it? It completely cuts out creatives and favors corporations instead, it trivializes and devalues art over the need for profit, and it changes the truth to whatever you want it to be. It has that grotesque, fake sheen texture; an illusion of some flawless, beautiful ideal, smoothed over and perfected in a way that makes you nauseous. Not to mention that, thanks to who is making these AI tools, it algorithmically erases minorities and <a href="https://www.theverge.com/24066641/disability-ableism-ai-census-qalys" target="_blank" rel="noopener noreferrer">people with disabilities</a>. It's a perfect little Hitler machine.
 
 {% include video id="UoquS5uXOKs" provider="youtube" %}
 

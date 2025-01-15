@@ -13,7 +13,6 @@ A nice and cosy place for me to organize my thoughts and archive them in written
 
 ## Planned posts
 
-- Critique of tech sector; liberatory potential of technology; solarpunk
 - On faith and religion
 - On love and hate
 - List of recommended YT channels and podcasts
