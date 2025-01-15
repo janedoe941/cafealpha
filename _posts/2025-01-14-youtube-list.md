@@ -96,7 +96,7 @@ by Not Just Bikes
 
 ## Veganism and Animal Liberation
 
-**You Will Never Look at Your Life in the Same Way Again | Eye-Opening Speech!**\
+**You Will Never Look at Your Life in the Same Way Again**\
 by Earthling Ed (Ed Winters)
 
 {% include video id="Z3u7hXpOm58" provider="youtube" %}
