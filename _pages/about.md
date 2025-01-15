@@ -9,3 +9,12 @@ A nice and cosy place for me to organize my thoughts and archive them in written
 <br>
 <br>
 —Gabor Maté, *In the Realm of Hungry Ghosts: Close Encounters with Addiction*
+
+
+## Planned posts
+
+- Critique of tech sector; liberatory potential of technology; solarpunk
+- On faith and religion
+- On love and hate
+- List of recommended YT channels and podcasts
+- On the oligarchy and the resurgence of the far-right

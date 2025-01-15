@@ -27,7 +27,7 @@ By the same logic, there's no point in participating in our beloved Swiss direct
 
 ## Why individual action is necessary
 
-In the examples given above, the appeal to futility is a fallacious argument because it leads to the absurd conclusion that nobody has to do anything anymore. Of course, certain actions can indeed be futile: no matter how hard I push against Mt. Everest, I will not be able to move it. Even if I had the help of all 8 billion people alive today, the outcome would be the same. In this case, the appeal to futility is valid.
+In the examples given above, the appeal to futility is a fallacious argument because it leads to the absurd conclusion that nobody has to do anything anymore. Of course, certain actions can indeed be futile: no matter how hard I push against Mount Everest, I will not be able to move it. Even if I had the help of all 8 billion people alive today, the mountain would remain unflinching. In this case, the appeal to futility is valid. What is the difference to the previous examples?
 
 The crux is this: **If the sum of individual actions achieves the desired outcome, then the appeal to futility is a fallacious argument.** The individual contribution may be insufficient, but it is nonetheless necessary to achieve the desired outcome in summation.
 
@@ -38,6 +38,12 @@ So, according to the available evidence, largely plant-based diets are a necessa
 {% include figure popup=true image_path="/assets/images/diets-land-use.png" alt="Figure showing that if everyone ate a plant-based diet, we would reduce the amount of land we use for agriculture by 75%" %}
 
 
+<div class="notice--info">
+  "Will you, a rational and compassionate being, having for a moment appeared in this world and at any moment liable to disappear—will you take part in the needless suffering and killing of sentient animals, will you contribute to the confinement, mutilation, and exploitation of beings capable of pain and joy, will you support the destruction of ecosystems and the artificial deterioration of our planet for the sake of convenience or profit, will you participate in these injustices, or even be in agreement with those who permit them, or will you not?"
+  <br><br>
+  —Cheekily adapted from an excerpt of Leo Tolstoy's <i><a href="https://theanarchistlibrary.org/library/leo-tolstoy-on-anarchy" target="_blank" rel="noopener noreferrer">On Anarchy</a></i>
+</div>
+
 ## Why individual action is insufficient
 
 When right-wing politicians evoke the appeal to futility to attack meaningful climate policy, I'd wager that most of them are well aware that they're just making excuses to desperately cling to a dying economic model addicted to fossil fuels. However, there is another critique of individual action that is not so self-serving and actually contains a valid truth: systemic problems require systemic solutions. We will not be able to buy our way out of ecological breakdown in the grocery store. Famously, the "carbon footprint" was popularized by British Petroleum, with the goal of shifting responsibility away from corporations and towards individual consumers.
@@ -46,7 +52,8 @@ In this sense, we must indeed be cautious not to over-emphasize individual actio
 
 This is also why I don't adopt a moralizing stance against individual consumers. I am not shaming individual meat eaters for not being vegan. My goal is to present alternative perspectives and let people decide for themselves how to act. I know full well that I also engage in certain consumption choices that are detrimental to the environment and rely on labour exploitation in the Global South. It is almost unavoidable in our current economic system. However, the goal is not to become an ascetic or a saint. Any step in the right direction is already valuable; what form this step might look like can be different for different people, including flexitarian and vegetarian diets, other forms of activism, etc. And once you have taken that first step, who's to say you cannot take another one? In my case, about a year after adopting veganism, I started volunteering for Amnesty International, through which I have met many of the most amazing, kind, and committed people I know.
 
-As for veganism as a movement: the good news is that we don't need to convince everyone. When a movement or initiative reaches a certain threshold of supporters, it can reach a social tipping point where it is accepted as natural by the mainstream, automatically drawing in more support. (This threshold is about 10 to 15% for initiatives that aim to revive participatory civic culture in local communities; see George Monbiot, *Out of the Wreckage*).
+As for veganism as a movement: the good news is that we don't need to convince everyone. When a movement or initiative reaches a certain threshold of supporters, it can reach a social tipping point where it is accepted as natural by the mainstream, automatically drawing in more support. (This threshold is about 10 to 15% for initiatives that aim to revive participatory civic culture in local communities; see George Monbiot, *Out of the Wreckage*). Nonetheless, until we get to such tipping point, we need to build a mass movement. Any mass movement consists of individuals, and if a movement for a safe and just world is to have any credibility, the individuals within said movement ought to live up to those values as best as they can. This is closely related to the idea of *prefigurative* politics, also captured in the popular proverb "be the change you wish to see in the world".
+is often one of the easiest choices
 
 Democracy is not just about individually filling out a ballot once every election cycle and then disengaging from politics for the rest of the time. Democracy means continuous engagement, deliberation, debate, education, activism, organizing, protest and even civil disobedience if necessary. Freedom is a constant struggle!
 
