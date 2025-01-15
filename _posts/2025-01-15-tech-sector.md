@@ -18,13 +18,13 @@ Let's go point by point.
 
 (Work in progress. There is *a lot* to say, so it'll take me a while to write this post.)
 
-## Proliferation of misinformation and erosion of truth
+## Social media and the erosion of truth
 
-It’s not good when oligarchs own our social media platforms and control our channels of communication. It’s not good when Elon Musk spreads hate, misinformation, conspiracy theories, shitposts, and Nazi historical revisionism to an audience of 200 million followers, <a href="https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter" target="_blank" rel="noopener noreferrer">boosting his own posts</a> and banning his critics. It’s not good when Zuckerberg decides that now, just before the incoming Trump administration, is the best time to get rid of fact-checking on Meta. And with only a few days left before the US Supreme Court will rule on a likely TikTok ban, a major competitor will have been eliminated, leaving Meta and X free to spread total havoc on public discourse. At this pace, it won't take long before the average American thinks climate change is a hoax invented by "Marxists" and that the holocaust didn't happen, and if it did, it was also perpetrated by "Marxists".
+It's not good when oligarchs own our social media platforms and control our channels of communication. It's not good when Elon Musk spreads hate, misinformation, conspiracy theories, shitposts, and Nazi historical revisionism to an audience of 200 million followers, <a href="https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter" target="_blank" rel="noopener noreferrer">boosting his own posts</a> and banning his critics. It's not good when Zuckerberg decides that now, just before the incoming Trump administration, is the best time to get rid of fact-checking on Meta. And with only a few days left before the US Supreme Court will rule on a likely TikTok ban, a major competitor will have been eliminated, leaving Meta and X free to spread total havoc on public discourse. At this pace, it won't take long before the average American thinks climate change is a hoax invented by "Marxists" and that the holocaust didn't happen, and if it did, it was also perpetrated by "Marxists".
 
 ### Meta's complicity in genocides
 
-Let’s not forget that <a href="https://en.wikipedia.org/wiki/Rohingya_genocide#Facebook_content_management_controversy" target="_blank" rel="noopener noreferrer">Facebook played a determining role in the Rohingya genocide</a> according to the UN. Similarly, <a href="https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/" target="_blank" rel="noopener noreferrer">Amnesty International</a> concludes: "Facebook owner Meta’s dangerous algorithms and reckless pursuit of profit substantially contributed to the atrocities perpetrated by the Myanmar military against the Rohingya people in 2017". And for anyone who believes tech bros are champions of free speech, I suggest taking a look at the following report by Human Rights Watch: [Meta's Broken Promises: Systemic Censorship of Palestine Content on Instagram and Facebook](https://www.hrw.org/report/2023/12/21/metas-broken-promises/systemic-censorship-palestine-content-instagram-and). Zuckerberg is a spineless coward and his submission/appeasement to Trump will only turbo-charge the UN Human Rights Council assessment of Facebook: **"a useful instrument for those seeking to spread hate."**
+Let's not forget that <a href="https://en.wikipedia.org/wiki/Rohingya_genocide#Facebook_content_management_controversy" target="_blank" rel="noopener noreferrer">Facebook played a determining role in the Rohingya genocide</a> according to the UN. Similarly, <a href="https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/" target="_blank" rel="noopener noreferrer">Amnesty International</a> concludes: "Facebook owner Meta's dangerous algorithms and reckless pursuit of profit substantially contributed to the atrocities perpetrated by the Myanmar military against the Rohingya people in 2017". And for anyone who believes tech bros are champions of free speech, I suggest taking a look at the following report by Human Rights Watch: [Meta's Broken Promises: Systemic Censorship of Palestine Content on Instagram and Facebook](https://www.hrw.org/report/2023/12/21/metas-broken-promises/systemic-censorship-palestine-content-instagram-and). Zuckerberg is a spineless coward and his submission/appeasement to Trump will only turbo-charge the UN Human Rights Council assessment of Facebook: **"a useful instrument for those seeking to spread hate."**
 
 ## Spiking energy demands of AI boom
 
@@ -42,16 +42,14 @@ Graphics programmer and tech artist Freya Holmér recently released a powerful v
 
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
-<div style="text-align: center;">
-<figure style="width: 400px">
+<figure style="width: 400px text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake">
   <figcaption>As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
 </figure>
-</div>
 
 ### A gift to scammers and propagandists
 
-Cody Johnston also makes a great point why AI "art" is so popular in certain right-wing circles:
+Cody Johnston makes a great point why AI "art" is so popular in certain right-wing circles:
 
 > AI images are a powerful tool for propaganda and misinformation and it is no coincidence that there are just so many shitty AI pictures making Trump look muscular or heroic or cool or kind or good or correct. It is quite simply the official art style of fascism. It's perfect for fascists and liars, isn't it? It completely cuts out creatives and favors corporations instead, it trivializes and devalues art over the need for profit, and it changes the truth to whatever you want it to be. It has that grotesque, fake sheen texture; an illusion of some flawless, beautiful ideal, smoothed over and perfected in a way that makes you nauseous. Not to mention that, thanks to who is making these AI tools, it algorithmically erases minorities and <a href="https://www.theverge.com/24066641/disability-ableism-ai-census-qalys" target="_blank" rel="noopener noreferrer">people with disabilities</a>. It's a perfect little Hitler machine.
 
@@ -59,9 +57,19 @@ Cody Johnston also makes a great point why AI "art" is so popular in certain rig
 
 ## Cryptocurrencies and NFTs
 
+<a href="https://www.currentaffairs.org/news/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire" target="_blank" rel="noopener noreferrer">Should die in a fire.</a> Wasting ungodly amounts of energy just to make it easier to scam people. And in this economy, people are *desperate* to fall for the latest get-rich-quick scheme. As Dan Olson says in his feature-length, viral takedown of the crypto boom: "The entire subject sits at the intersection of two fields that are notoriously prone to hype-based obfuscation: computer tech and finance." Truly, the worst of both worlds.
+
+{% include video id="YQ_xWvX1n9g" provider="youtube" %}
+
 ## Transportation
 
 ### Electric vehicles
+
+The amount of <a href="https://www.nhm.ac.uk/press-office/press-releases/leading-scientists-set-out-resource-challenge-of-meeting-net-zer.html" target="_blank" rel="noopener noreferrer">resources</a> required to build/replace the world's projected fleet of 2 billion cars with electric cars will exacerbate an already existing crisis of material overextraction (Jason Hickel, *Less Is More*). What we need is to vastly reduce the number of cars (the ones remaining should be of course electric) and focus on public transit, walkability, biking infrastructure, and urban planning. Great YouTube channel on these issues: <a href="https://www.youtube.com/@NotJustBikes" target="_blank" rel="noopener noreferrer">Not Just Bikes</a>. Unfortunately, advocating for a reduction of cars is not profitable for the car industry, so Elon Musk wants to convince us that the solution to traffic is to build <a href="https://www.youtube.com/watch?v=ACXaFyB_-8s" target="_blank" rel="noopener noreferrer">small tunnels exclusively for Tesla cars</a> or some shit, instead of having, say, a functioning subway system.
+
+> The narratives around electric vehicles over the past couple of decades leave out important context: the vehicles only appear clean and green because environmental messaging narrowly focuses on tailpipe emissions, ignoring the harm that pervades the supply chain and the unsustainable nature of auto-oriented development.
+>
+> —Paris Marx, *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*
 
 ### Self-driving cars
 
@@ -75,11 +83,11 @@ Cody Johnston also makes a great point why AI "art" is so popular in certain rig
 
 ## Fake innovation
 
-### AI-driven water bottles and other bullshit
+### "Smart" water bottles and other bullshit
 
 ### Zoom's proposed AI clones
 
-### Obfuscation of public funding of tech sector
+### Obfuscation of public funding of tech innovations
 
 ## Motherfucking endless content, motherfucking apps everywhere
 
@@ -88,6 +96,8 @@ Cody Johnston also makes a great point why AI "art" is so popular in certain rig
 ### Dating apps
 
 ## Inane obsession with colonizing Mars
+
+## Predictive policing and autonomous weapons
 
 # An alternative future is possible
 
