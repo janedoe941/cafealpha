@@ -74,7 +74,7 @@ by kishimisu
 
 {% include video id="f4s1h2YETNY" provider="youtube" %}
 
-## Music
+## Music and Culture
 **Keeping Score - Gustav Mahler: Origins**\
 by Michael Tilson Thomas
 
@@ -101,7 +101,7 @@ by Earthling Ed (Ed Winters)
 
 {% include video id="Z3u7hXpOm58" provider="youtube" %}
 
-## Miscellaneous
+## Miscellaneous Frivolity
 
 **Cats Being Badass: A Tribute**\
 by Jason McBason
