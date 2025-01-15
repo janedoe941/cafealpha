@@ -12,7 +12,6 @@ toc_sticky: true
 
 This is a continuously expanding list where I will post YouTube videos that I consider particularly instructive and well-presented. I will focus primarily on original video essays, rather than unscripted videos or content that was uploaded second-hand. I may also be tempted to put a few cat videos on here, though I will try my best to keep feline hijinks to a respectable minimum.
 
-
 ## Media Critique and Analysis
 
 ### Film
@@ -56,7 +55,6 @@ by Dan Olson (Folding Ideas)
 
 {% include video id="YQ_xWvX1n9g" provider="youtube" %}
 
-
 ## Science, Maths, and Technology
 
 **The Continuity of Splines**\
@@ -75,6 +73,7 @@ by kishimisu
 {% include video id="f4s1h2YETNY" provider="youtube" %}
 
 ## Music and Culture
+
 **Keeping Score - Gustav Mahler: Origins**\
 by Michael Tilson Thomas
 

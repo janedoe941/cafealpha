@@ -45,14 +45,14 @@ Varoufakis doesn't tell you what to believe, only that no one theory has all the
 **Naomi Klein, 2023**<br>
 Tags: *politics, sociology, memoir*
 
-![Book cover: Doppelganger]({{ site.url }}{{ site.baseurl }}/assets/images/cover-doppelganger.png){: .align-left} 
+![Book cover: Doppelganger]({{ site.url }}{{ site.baseurl }}/assets/images/cover-doppelganger.png){: .align-left}
 
 Brilliant memoir and insightful analysis of the resurgence of the far-right in the West. Of particular importance is the way far-right politics co-opts leftist talking points and twists them to serve reactionary ends. Sadly, this is not a new story: divide and conquer is the oldest trick in the capitalist's playbook, as is the symbiosis with far-right politics to keep regular people in a constant state of manufactured hysteria about "the Other". What is new, however, is the way that social media has completely turbo-charged the spread of misinformation and the powerful allure of conspiracy theories, making it easier than ever to divert working-class resentment towads the latest scapegoat *du jour*. For a snippet of the book, see also <a href="https://www.youtube.com/watch?v=FxQ3EuEAOz0" target="_blank" rel="noopener noreferrer">Ash Sarkar's interview with Naomi Klein </a> for Novara Media.
 
 > "In the Mirror World, conspiracy theories detract attention from the billionaires who fund the networks of misinformation and away from the economic policies—deregulation, privatization, austerity—that have stratified wealth so cataclysmically in the neoliberal era. They rile up anger about the Davos elites, at Big Tech and Big Pharma—but the rage never seems to reach those targets. Instead it gets diverted into culture wars about anti-racist education, all-gender bathrooms, and Great Replacement panic directed at Black people, nonwhite immigrants, and Jews. Meanwhile, the billionaires who bankroll the whole charade are safe in the knowledge that the fury coursing through our culture isn’t coming for them."
 
-
 ## Extended recommendations
+
 ❤️ <b><a href="https://www.goodreads.com/book/show/35133922-educated" target="_blank" rel="noopener noreferrer">Educated</a></b> (Tara Westover, 2018)\
 Powerful memoir chronicling the author's upbringing in an abusive, conspiratorial, hardcore survivalist Mormon household that denied her education and healthcare, and how she eventually escaped this environment. Thank you to my friend L. for the recommendation!
 

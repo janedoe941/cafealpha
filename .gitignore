@@ -5,3 +5,6 @@ Gemfile.lock
 
 # Unfinished posts
 *-XX-*.md
+
+.vscode
+.markdownlint.json

@@ -37,7 +37,6 @@ So, according to the available evidence, largely plant-based diets are a necessa
 
 {% include figure popup=true image_path="/assets/images/diets-land-use.png" alt="Figure showing that if everyone ate a plant-based diet, we would reduce the amount of land we use for agriculture by 75%" %}
 
-
 <div class="notice--info">
   "Will you, a rational and compassionate being, having for a moment appeared in this world and at any moment liable to disappear—will you take part in the needless suffering and killing of sentient animals, will you contribute to the confinement, mutilation, and exploitation of beings capable of pain and joy, will you support the destruction of ecosystems and the artificial deterioration of our planet for the sake of convenience or profit, will you participate in these injustices, or even be in agreement with those who permit them, or will you not?"
   <br><br>
@@ -57,4 +56,4 @@ is often one of the easiest choices
 
 Democracy is not just about individually filling out a ballot once every election cycle and then disengaging from politics for the rest of the time. Democracy means continuous engagement, deliberation, debate, education, activism, organizing, protest and even civil disobedience if necessary. Freedom is a constant struggle!
 
-**Change happens when people get together to make things happen. Individual action is a necessary but insuficient part of the solution, so it must be embedded in a larger social movement with collective action as a goal.**
+**Change happens when people get together to make things happen. Individual action is a necessary but insufficient part of the solution, so it must be embedded in a larger social and political movement with collective action as a goal.**
