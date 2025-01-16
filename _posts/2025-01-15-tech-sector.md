@@ -42,15 +42,10 @@ Graphics programmer and tech artist Freya Holmér recently released a powerful v
 
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
-<figure style="width: 360px text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake">
-  <figcaption>As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake" style="width: 400px;">
+    <figcaption style="margin-top: 10px; font-style: italic; color: #555;">As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
 </figure>
-
-  <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake" style="width: 400px;">
-      <figcaption style="margin-top: 10px; font-style: italic; color: #555;">As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
-  </figure>
 
 ### A gift to scammers and propagandists
 
