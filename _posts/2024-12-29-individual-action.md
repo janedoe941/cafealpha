@@ -27,7 +27,7 @@ By the same logic, there's no point in participating in our beloved Swiss direct
 
 ## Why individual action is necessary
 
-In the examples given above, the appeal to futility is a fallacious argument because it leads to the absurd conclusion that nobody has to do anything anymore. Of course, certain actions can indeed be futile: no matter how hard I push against Mount Everest, I will not be able to move it. Even if I had the help of all 8 billion people alive today, the mountain would remain unflinching. In this case, the appeal to futility is valid. What is the difference to the previous examples?
+In the examples given above, the appeal to futility is a fallacious argument because it leads to the absurd conclusion that nobody has to do anything anymore. Of course, certain actions can indeed be futile: no matter how hard I push against Mount Everest, I will not be able to move it. Even if I had the help of all 8 billion people alive today, Everest would remain unflinching. In this case, the appeal to futility is valid. What is the difference to the previous examples?
 
 The crux is this: **If the sum of individual actions achieves the desired outcome, then the appeal to futility is a fallacious argument.** The individual contribution may be insufficient, but it is nonetheless necessary to achieve the desired outcome in summation.
 

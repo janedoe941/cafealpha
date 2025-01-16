@@ -12,9 +12,9 @@ toc: true
 toc_sticky: true
 ---
 
-After finishing my PhD, a friend once asked me why I, as a scientific programmer looking for a new position, was avoiding most of the tech sector during my job search. I responded that I consider the tech sector to be "a parasitic cancer on the human soul and life on Earth (with some exceptions)". I feel like I ought to elaborate.
+After finishing my PhD, a friend once asked me why I, as a scientific programmer looking for a new position, was avoiding most of the tech sector during my job search. I responded that I consider the tech sector to be "a parasitic cancer on the human soul and all life on Earth (with some exceptions)". I feel like I ought to elaborate.
 
-Let's go point by point. 
+Let's go point by point.
 
 (Work in progress. There is *a lot* to say, so it'll take me a while to write this post.)
 
@@ -42,10 +42,15 @@ Graphics programmer and tech artist Freya Holmér recently released a powerful v
 
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
-<figure style="width: 400px text-align: center;">
+<figure style="width: 360px text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake">
   <figcaption>As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
 </figure>
+
+  <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scam-ad.png" alt="YouTube scam ad with Roger Federer deepfake" style="width: 400px;">
+      <figcaption style="margin-top: 10px; font-style: italic; color: #555;">As if to illustrate my point, right beneath the Freya Holmér video I got a scam ad with a deepfake image of Roger Federer. My YouTube feed is littered with this shit.</figcaption>
+  </figure>
 
 ### A gift to scammers and propagandists
 
@@ -57,7 +62,7 @@ Cody Johnston makes a great point why AI "art" is so popular in certain right-wi
 
 ## Cryptocurrencies and NFTs
 
-<a href="https://www.currentaffairs.org/news/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire" target="_blank" rel="noopener noreferrer">Should die in a fire.</a> Wasting ungodly amounts of energy just to make it easier to scam people. And in this economy, people are *desperate* to fall for the latest get-rich-quick scheme. As Dan Olson says in his feature-length, viral takedown of the crypto boom: "The entire subject sits at the intersection of two fields that are notoriously prone to hype-based obfuscation: computer tech and finance." Truly, the worst of both worlds.
+<a href="https://www.currentaffairs.org/news/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire" target="_blank" rel="noopener noreferrer">Should die in a fire.</a> Technology that is wasting ungodly amounts of energy just to make it easier to scam people is not what I call progress. And in this economy, people are *desperate* to fall for the latest get-rich-quick scheme. As Dan Olson says in his feature-length, viral takedown of the crypto boom: "The entire subject sits at the intersection of two fields that are notoriously prone to hype-based obfuscation: computer tech and finance." Truly, the worst of both worlds.
 
 {% include video id="YQ_xWvX1n9g" provider="youtube" %}
 
@@ -82,6 +87,10 @@ The amount of <a href="https://www.nhm.ac.uk/press-office/press-releases/leading
 ## Platform capitalism, techno-feudalism
 
 ## Fake innovation
+
+What's the difference between innovation and progress? Progress requires a reference frame against which it is measured: it's not enough for something to be new, it also needs to be better than what came before. However,
+
+No wonder, then, that Silicon Valley is fetishizing the idea of innovation:
 
 ### "Smart" water bottles and other bullshit
 
