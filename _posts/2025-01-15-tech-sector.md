@@ -83,15 +83,13 @@ The amount of <a href="https://www.nhm.ac.uk/press-office/press-releases/leading
 
 ## Fake innovation
 
-What's the difference between innovation and progress? Progress requires a reference frame against which it is measured: it's not enough for something to be new, it also needs to be better than what came before. However,
-
-No wonder, then, that Silicon Valley is fetishizing the idea of innovation:
+What's the difference between innovation and progress? Progress requires a reference frame against which it is measured: it's not enough for something to be new, it also needs to be better than what came before. However, there is no such high bar for something to be *innovative*: it suffices to be new, shiny, and supported by a marketing campaign full of the latest buzzwords. No wonder, then, that Silicon Valley talks less about progress and prefers to fetishize the idea of innovation instead, as the primary goal is to make money, not to improve people's lives. I have already discussed the evergreen innovation scam of the "gadgetbahn" above, but let's take a look at a few more cases of "innovative" bullshit that tech bros have kindly given us, shall we?
 
 ### "Smart" water bottles and other bullshit
 
 ### Zoom's proposed AI clones
 
-### Obfuscation of public funding of tech innovations
+### Obfuscation of public funding of real tech innovations
 
 ## Motherfucking endless content, motherfucking apps everywhere
 
