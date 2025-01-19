@@ -92,11 +92,13 @@ Amazing!!! For the meager price of $69.99, you can now get your very own Hidrate
 
 Ok, let's drop the sarcasm. If you know anything about the internet or marketing, you know that this company is not really trying to sell you just a $70 water bottle.
 
-Firstly, a major driver behind smart devices and the craze to connect even the most routine activities to the internet (only a matter of time before we get our first AI-driven, app-controlled smart toilet paper dispenser) is to collect your data to sell to third parties. The collected data (or *cloud capital* in the words of economist Yanis Varoufakis), is so valuable that the devices are often sold at low precises or even at a loss (the good old razor and blades business strategy). Though to be honest, in the case of HidrateSpark, the bottle seems overpriced for sure. However, I did read the company's privacy policy, which states:
+Firstly, a major driver behind smart devices and the craze to connect even the most routine activities to the internet (only a matter of time before we get our first AI-driven, app-controlled smart toilet paper dispenser) is to collect your data to sell to third parties. The collected data (or *cloud capital* in the words of economist Yanis Varoufakis), is so valuable that the devices are often sold at low precises or even at a loss (the good old razor and blades business strategy). Though, to be honest, in the case of HidrateSpark, the bottle seems overpriced for sure. However, I did read the company's privacy policy, which states:
 
 > We may enter into agreements with companies that desire access to personal information that we collect from you. AS A RESULT, WE MAY PROVIDE YOUR PERSONAL INFORMATION TO SUCH THIRD PARTY COMPANIES.  BECAUSE WE DO NOT CONTROL THE PRIVACY PRACTICES OF THESE THIRD PARTY COMPANIES, YOU SHOULD READ AND UNDERSTAND THEIR PRIVACY POLICIES.
 
-Rule of thumb: if your water bottle comes with a cascade of privacy policies, you are probably doing something wrong in life. {:.notice--warning}
+<div class="notice--info">
+  Rule of thumb: if your water bottle comes with a cascade of privacy policies, you are probably doing something wrong in life. 
+</div>
 
 Secondly, it's very transparent that the company's marketing strategy is to sell you on the idea that buying their products will prolong your life and is proof of your epic high IQ. It's the oldest trick in the book, going back to Edward Bernays, "father of public relations" and nephew of Sigmund Freud. This paragraph from Wikipedia speaks for itself:
 
