@@ -30,9 +30,14 @@ Let's not forget that <a href="https://en.wikipedia.org/wiki/Rohingya_genocide#F
 
 ### Spiking energy demands of AI boom
 
-AI is currently undermining what little progress tech companies have made on their climate promises. See the below video by Mexie, a postdoc in human geography / political ecology.
+AI is currently undermining what little progress tech companies have made on their climate promises. See also the below video by Mexie, a postdoc in human geography / political ecology.
 
 {% include video id="iKOn6wbOD7A" provider="youtube" %}
+
+Not only are energy demands increasing, Trump has made it clear during his WEF 2025 speech that he intends to give companies free rein to be as dirty as they want:
+
+> **[Trump] said the US needs to double its energy production, partly to fuel artificial intelligence.** Trump said he will fast-track the approvals for new power plants, which companies can site next to their plants – something not currently possible under regulations. Worryingly, he declared that companies will be able to fuel it with anything they want, and have coal as a backup, "good, clean coal".
+> ([The Guardian](https://www.theguardian.com/us-news/live/2025/jan/23/donald-trump-pardons-january-6-us-president-joe-biden-jd-vance-republicans-live-news?page=with:block-67927e968f0861aa8602a220#block-67927e968f0861aa8602a220))
 
 ### Generative AI
 
@@ -42,6 +47,7 @@ GenAI has some use cases but also so many problems. The internet is being litter
 
 Graphics programmer and tech artist Freya Holmér recently released a powerful video arguing why *Generative AI Is a Parasitic Cancer* (best skip to 38:04; the beginning is a bit drawn-out). Instead of focusing on energy and copyright issues, this video is more about the value of real art and human communication, and what is lost when we increasingly rely on AI to handle written/creative tasks for us.
 
+And guess what Trump said during
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
