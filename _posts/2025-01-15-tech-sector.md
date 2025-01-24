@@ -47,7 +47,6 @@ GenAI has some use cases but also so many problems. The internet is being litter
 
 Graphics programmer and tech artist Freya Holmér recently released a powerful video arguing why *Generative AI Is a Parasitic Cancer* (best skip to 38:04; the beginning is a bit drawn-out). Instead of focusing on energy and copyright issues, this video is more about the value of real art and human communication, and what is lost when we increasingly rely on AI to handle written/creative tasks for us.
 
-And guess what Trump said during
 {% include video id="-opBifFfsMY" provider="youtube" %}
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
