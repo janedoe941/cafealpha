@@ -48,19 +48,16 @@ by Electron Dance
 
 {% include video id="NOJC62t4JfA" provider="youtube" %}
 
-## Technology Critique
+## Science, Maths, and Technology
+
+### Technology Critique
 
 **Line Goes Up – The Problem With NFTs**\
 by Dan Olson (Folding Ideas)
 
 {% include video id="YQ_xWvX1n9g" provider="youtube" %}
 
-## Science, Maths, and Technology
-
-**The Continuity of Splines**\
-by Freya Holmér
-
-{% include video id="jvPPXbo87ds" provider="youtube" %}
+### Technology Explainers
 
 **How do Video Game Graphics Work?**\
 by Branch Education
@@ -71,6 +68,19 @@ by Branch Education
 by kishimisu
 
 {% include video id="f4s1h2YETNY" provider="youtube" %}
+
+### Maths
+
+**The Continuity of Splines**\
+by Freya Holmér
+
+{% include video id="jvPPXbo87ds" provider="youtube" %}
+
+**But what is a neural network?**\
+by Grant Sanderson (3blue1brown)
+
+{% include video id="aircAruvnKk" provider="youtube" %}
+
 
 ## Music and Culture
 
@@ -99,6 +109,15 @@ by Not Just Bikes
 by Earthling Ed (Ed Winters)
 
 {% include video id="Z3u7hXpOm58" provider="youtube" %}
+
+## Politics
+
+**The Alt-Right Playbook** (Video Series)\
+by Ian Danskin (Innuendo Studios)
+
+[Full playlist here](https://www.youtube.com/watch?v=4xGawJIseNY&list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ)
+
+{% include video id="0YFdwfNh5vs" provider="youtube" %}
 
 ## Miscellaneous Frivolity
 
