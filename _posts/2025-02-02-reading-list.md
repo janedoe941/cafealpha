@@ -1,7 +1,6 @@
 ---
 title: "Recommended Reading List"
 excerpt_separator: "<!--more-->"
-#last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - List
 tags:
@@ -60,10 +59,19 @@ Powerful memoir chronicling the author's upbringing in an abusive, conspiratoria
 I used to think that medieval witch hunts were the result of stupid peasant superstitions; this book makes the case that they resulted from a concerted political project to punish independent women and pressure them into an exclusively domestic, reproductive role during the early development of capitalism. Federici's chronicling ot peasant anti-feudal struggles makes this an instructive companion read to Jason Hickel's *Less Is More*.
 
 ⭐ <b><a href="https://www.goodreads.com/book/show/53328332-less-is-more" target="_blank" rel="noopener noreferrer">Less Is More: How Degrowth Will Save the World</a></b> (Jason Hickel, 2020)\
-Shows how exponential growth and resource consumption is deeply tied to the extractive logic of capitalism, rendering it an unsustainable economic system on a finite planet. GDP is a woefully flawed measure for human (let alone ecological) flourishing, and we must come up with better ways of thinking what the purpose of an economy should be (see also Kate Raworth, <a href="https://www.goodreads.com/book/show/29214420-doughnut-economics" target="_blank" rel="noopener noreferrer">Doughnut Economics</a>). Also challenges the rosy narrative that there was a linear evolution from backwards feudalism to freedom-loving capitalism, showing how the latter arose from violent enclosures of the commons and the ashes of crushed peasant rebellions who strived for a co-operative, egalitarian society.
+Shows how exponential growth and resource consumption is deeply tied to the extractive logic of capitalism, rendering it an unsustainable economic system on a finite planet. GDP is a woefully flawed measure for human (let alone ecological) flourishing, and we must come up with better ways of thinking what the purpose of an economy should be. Also challenges the rosy narrative that there was a linear evolution from backwards feudalism to freedom-loving capitalism, showing how the latter arose from violent enclosures of the commons and the ashes of crushed peasant rebellions who strived for a co-operative, egalitarian society.
+
+⭐ <b><a href="https://www.goodreads.com/book/show/29214420-doughnut-economics" target="_blank" rel="noopener noreferrer">Doughnut Economics: Seven Ways to Think Like a 21st Century Economist</a></b> (Kate Raworth, 2017)\
+Rather than advocating for strict degrowth like Jason Hickel, Raworth advocates for a growth-agnostic economy that is distributive and regenerative by design. Crucially, the purpose of economic policy should be to balance the economy within the Goldilocks zone defined by two concentric circles: the inner circle represents the minimum level of economic development necessary to achieve universal human rights for everyone; the outer circle is defined by the maximum level of economic activity that can be sustained while keeping within the nine planetary boundaries established by Earth systems science.
 
 👍 <b><a href="https://www.goodreads.com/book/show/61358638-poverty-by-america" target="_blank" rel="noopener noreferrer">Poverty, by America</a></b> (Matthew Desmond, 2023)\
 Lays out how, contrary to the popular narrative of evil poor immigrant welfare queens, the US welfare state mainly benefits middle-class and high-income households at the expense of low-income households.
 
-⭐ <b><a href="[https://www.goodreads.com/book/show/61358638-poverty-by-america" target="_blank" rel="noopener noreferrer](https://www.goodreads.com/book/show/58093554-this-is-vegan-propaganda)">This is Vegan Propaganda</a></b> (Ed Winters, 2022)\
+⭐ <b><a href="[https://www.goodreads.com/book/show/61358638-poverty-by-america" target="_blank" rel="noopener noreferrer">This is Vegan Propaganda</a></b> (Ed Winters, 2022)\
 A comprehensive summary making the case for veganism. Covers most of the important topics: ethics and animal welfare, environment and climate, nutrition and health, and countering the prevailing narrative. I also recommend the author's YouTube channel <a href="https://www.youtube.com/@ed.winters" target="_blank" rel="noopener noreferrer">Earthling Ed</a>.
+
+⚠️ <b><a href="" target="_blank" rel="noopener noreferrer">The Art of Loving</a></b> (Erich Fromm, 1956)\
+An illuminating philosophical inquiry into the nature of love. However, the book is severely outdated in terms of its gender essentialist and heteronormative framing. Fromm's views on gender and homosexuality are likely a product of his time, but I cannot let the guy off the hook that easily. Great thinkers, especially left-leaning ones like Fromm, should be expected to be able to peer beyond the tyranny of the status quo and identify areas where the emancipatory project has not yet been fulfilled. Nevertheless, although Fromm's blind spots are regrettable,  his basic thesis and delineation of love can be easily salvaged from these shortcomings.
+
+> *If I truly love one person I love all persons, I love the world, I love life. If I can say to somebody else, "I love you," I must be able to say, "I love in you everybody, I love through you the world, I love in you also myself."*\
+>—Erich Fromm, The Art of Loving

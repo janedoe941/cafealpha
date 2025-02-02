@@ -94,7 +94,7 @@ What's the difference between innovation and progress? Progress requires a refer
 > "Your water bottle is *dumb*. There, we said it. Make the intelligent switch to the smartest water bottle ever made."\
 > —HidrateSpark Pro ad
 
-Behold the gifts of modern technology! For the meager price of $69.99, you can now get your very own HidrateSpark Pro *smart water bottle*! A disruptive hi-tech innovation that will revolutionize hydration habits for generations to come, the HidrateSpark Pro smart wattle bottle connects via bluetooth to your smartphone or smartwatch to track your water intake and periodically remind you what a smart little boy you are (and that you need to hydrate regularly to maintain homeostasis). It even glows in fancy colors! But how will the HidrateSpark Pro know if you go to a restaurant and drink water from a dumb, ordinary glass? Easy, just manually log your water intake with the HidrateSpark Water Tracker app, free of charge. (Unless you want to customize the glow colors, for which you need a premium app membership.) The app even lets you compete with your friends to see who is the smartest water drinker ever! Best thing: the HidrateSpark Pro comes with a proprietary charger, so you'll have no choice but to buy an official HidrateSpark Pro replacement charger if your old one breaks. Why use standardized connectors like USB-C when a company can lock you into its own ecosystem?
+Behold the gifts of modern technology: for the meager price of $69.99, you can now get your very own *HidrateSpark Pro smart water bottle*! A disruptive hi-tech innovation that will revolutionize hydration habits for generations to come, the HidrateSpark Pro smart wattle bottle connects via bluetooth to your smartphone or smartwatch to track your water intake and periodically remind you what a smart little boy you are (and that you need to hydrate regularly to maintain homeostasis). It even glows in fancy colors! But how will the HidrateSpark Pro know if you go to a restaurant and drink water from a dumb, ordinary glass? Easy, just manually log your water intake with the HidrateSpark Water Tracker app, free of charge. (Unless you want to customize the glow colors, for which you need a premium app membership.) The app even lets you compete with your friends to see who is the smartest water drinker ever! Best thing: the HidrateSpark Pro comes with a proprietary charger, so you'll have no choice but to buy an official HidrateSpark Pro replacement charger if your old one breaks. Why use standardized connectors like USB-C when a company can lock you into its own ecosystem?
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
   <img src="https://mma.prnewswire.com/media/1837196/HidrateSpark.jpg" alt="Glowing HidrateSpark Pro bottles with smartphone app">
@@ -102,7 +102,7 @@ Behold the gifts of modern technology! For the meager price of $69.99, you can n
 
 Ok, let's drop the sarcasm. If you know anything about the internet or marketing, you know that this company is not really trying to sell you just a $70 water bottle.
 
-Firstly, a major driver behind smart devices and the craze to connect even the most routine activities to the internet (only a matter of time before we get our first AI-driven, app-controlled smart toilet paper dispenser) is to collect your data to sell to third parties. The collected data (or *cloud capital* in the words of economist Yanis Varoufakis) is so valuable that the devices are often sold at low prices or even at a loss (the good old razor and blades business strategy). Though, to be honest, in the case of HidrateSpark, the bottle seems overpriced for sure. However, I did read the company's privacy policy, which states:
+Firstly, a major driver behind smart devices and the craze to connect even the most routine activities to the internet (only a matter of time before we get our first AI-driven, app-controlled smart toilet paper dispenser) is to collect your data to sell to third parties. The collected data is so valuable that the devices are often sold at low prices or even at a loss (the good old razor and blades business strategy). Though, to be honest, in the case of HidrateSpark, the bottle seems overpriced for sure. However, I did read the company's privacy policy, which states:
 
 > We may enter into agreements with companies that desire access to personal information that we collect from you. AS A RESULT, WE MAY PROVIDE YOUR PERSONAL INFORMATION TO SUCH THIRD PARTY COMPANIES.  BECAUSE WE DO NOT CONTROL THE PRIVACY PRACTICES OF THESE THIRD PARTY COMPANIES, YOU SHOULD READ AND UNDERSTAND THEIR PRIVACY POLICIES.
 
@@ -117,6 +117,8 @@ Secondly, it's very transparent that the company's marketing strategy is to sell
 #### Zoom's proposed AI clones
 
 #### Obfuscation of public funding of real tech innovations
+
+You might look at the previous examples of fake tech innovations, from the Hyperloop gadgetbahn to the "smart" water bottle, and consider them cherry-picked examples. What about the smartphone? Isn't that a clear-cut example of a real tech innovation?
 
 ### Worker productivity and compensation
 
