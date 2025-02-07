@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-This is a continuously expanding list where I will post non-fiction book recommendations.
+This is a continuously expanding list where I will post non-fiction book recommendations. If I ever make a list for fiction books, it will be in a separate post.
 
 ## Legend
 
@@ -21,7 +21,6 @@ This is a continuously expanding list where I will post non-fiction book recomme
 - ⚠️ = Recommended with caveats
 
 ## ⭐ <a href="https://www.goodreads.com/book/show/205495275-the-myth-of-american-idealism" target="_blank" rel="noopener noreferrer">The Myth of American Idealism</a>
-
 
 **Noam Chomsky and Nathan J. Robinson, 2024**<br>
 Tags: *history, politics, war*
@@ -53,25 +52,43 @@ Brilliant memoir and insightful analysis of the resurgence of the far-right in t
 ## Extended recommendations
 
 ❤️ <b><a href="https://www.goodreads.com/book/show/35133922-educated" target="_blank" rel="noopener noreferrer">Educated</a></b> (Tara Westover, 2018)\
+Tags: *memoir, biography, family, education, feminism, religion*
+
 Powerful memoir chronicling the author's upbringing in an abusive, conspiratorial, hardcore survivalist Mormon household that denied her education and healthcare, and how she eventually escaped this environment. Thank you to my friend L. for the recommendation!
 
 👍 <b><a href="https://www.goodreads.com/book/show/403846.Caliban_and_the_Witch" target="_blank" rel="noopener noreferrer">Caliban and the Witch</a></b> (Silvia Federici, 2004)\
+Tags: *history, feminism, Marxism*
+
 I used to think that medieval witch hunts were the result of stupid peasant superstitions; this book makes the case that they resulted from a concerted political project to punish independent women and pressure them into an exclusively domestic, reproductive role during the early development of capitalism. Federici's chronicling ot peasant anti-feudal struggles makes this an instructive companion read to Jason Hickel's *Less Is More*.
 
 ⭐ <b><a href="https://www.goodreads.com/book/show/53328332-less-is-more" target="_blank" rel="noopener noreferrer">Less Is More: How Degrowth Will Save the World</a></b> (Jason Hickel, 2020)\
+Tags: *economics, history, sustainability, politics*
+
 Shows how exponential growth and resource consumption is deeply tied to the extractive logic of capitalism, rendering it an unsustainable economic system on a finite planet. GDP is a woefully flawed measure for human (let alone ecological) flourishing, and we must come up with better ways of thinking what the purpose of an economy should be. Also challenges the rosy narrative that there was a linear evolution from backwards feudalism to freedom-loving capitalism, showing how the latter arose from violent enclosures of the commons and the ashes of crushed peasant rebellions who strived for a co-operative, egalitarian society.
 
 ⭐ <b><a href="https://www.goodreads.com/book/show/29214420-doughnut-economics" target="_blank" rel="noopener noreferrer">Doughnut Economics: Seven Ways to Think Like a 21st Century Economist</a></b> (Kate Raworth, 2017)\
+Tags: *economics, sustainability, politics, business*
+
 Rather than advocating for strict degrowth like Jason Hickel, Raworth advocates for a growth-agnostic economy that is distributive and regenerative by design. Crucially, the purpose of economic policy should be to balance the economy within the Goldilocks zone defined by two concentric circles: the inner circle represents the minimum level of economic development necessary to achieve universal human rights for everyone; the outer circle is defined by the maximum level of economic activity that can be sustained while keeping within the nine planetary boundaries established by Earth systems science.
 
 👍 <b><a href="https://www.goodreads.com/book/show/61358638-poverty-by-america" target="_blank" rel="noopener noreferrer">Poverty, by America</a></b> (Matthew Desmond, 2023)\
+Tags: *sociology, politics*
+
 Lays out how, contrary to the popular narrative of evil poor immigrant welfare queens, the US welfare state mainly benefits middle-class and high-income households at the expense of low-income households.
 
 ⭐ <b><a href="[https://www.goodreads.com/book/show/61358638-poverty-by-america" target="_blank" rel="noopener noreferrer">This is Vegan Propaganda</a></b> (Ed Winters, 2022)\
-A comprehensive summary making the case for veganism. Covers most of the important topics: ethics and animal welfare, environment and climate, nutrition and health, and countering the prevailing narrative. I also recommend the author's YouTube channel <a href="https://www.youtube.com/@ed.winters" target="_blank" rel="noopener noreferrer">Earthling Ed</a>.
+Tags: *veganism, food, health, science, politics*
+
+A comprehensive overview making the case for veganism. Covers most of the important topics: ethics and animal welfare, environment and climate, nutrition and health, and countering the prevailing narrative. I also recommend the author's YouTube channel <a href="https://www.youtube.com/@ed.winters" target="_blank" rel="noopener noreferrer">Earthling Ed</a>.
 
 ⚠️ <b><a href="" target="_blank" rel="noopener noreferrer">The Art of Loving</a></b> (Erich Fromm, 1956)\
-An illuminating philosophical inquiry into the nature of love. However, the book is severely outdated in terms of its gender essentialist and heteronormative framing. Fromm's views on gender and homosexuality are likely a product of his time, but I cannot let the guy off the hook that easily. Great thinkers, especially left-leaning ones like Fromm, should be expected to be able to peer beyond the tyranny of the status quo and identify areas where the emancipatory project has not yet been fulfilled. Nevertheless, although Fromm's blind spots are regrettable,  his basic thesis and delineation of love can be easily salvaged from these shortcomings.
+Tags: *philosophy, psychology*
 
-> *If I truly love one person I love all persons, I love the world, I love life. If I can say to somebody else, "I love you," I must be able to say, "I love in you everybody, I love through you the world, I love in you also myself."*\
->—Erich Fromm, The Art of Loving
+An illuminating philosophical inquiry into the nature of love. However, the book is severely outdated in terms of its gender essentialist and heteronormative framing. Fromm's views on gender and homosexuality are likely a product of his time, but I cannot let the guy off the hook that easily: great thinkers, especially left-leaning ones like Fromm, should be expected to be able to peer beyond the tyranny of the status quo and identify areas where the emancipatory project has not yet been fulfilled. Nevertheless, although Fromm's blind spots are regrettable,  his basic thesis and delineation of love can be easily salvaged from these shortcomings.
+
+> *"If I truly love one person I love all persons, I love the world, I love life. If I can say to somebody else, 'I love you,' I must be able to say, 'I love in you everybody, I love through you the world, I love in you also myself.'"*
+
+👍 <b><a href="https://www.goodreads.com/book/show/617702.In_the_Realm_of_Hungry_Ghosts" target="_blank" rel="noopener noreferrer">In the Realm of Hungry Ghosts: Close Encounters with Addiction</a></b> (Gabor Maté, 2007)\
+Tags: *psychology, medicine, neuroscience*
+
+Dr. Gabor Maté is a Canadian physician, addiction expert, Holocaust survivor, and advocate for Palestinian rights. Based on his work at a supervised drug injection site in Vancouver, this book offers a range of compassionate vignettes into the lives of his drug-addicted patients, digestible explainers into the neuroscience of addiction, a scathing critique of the failed war on drugs, and a powerful call for the decriminalization of addiction.
