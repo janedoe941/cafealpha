@@ -22,7 +22,6 @@ This is a continuously expanding list where I will post non-fiction book recomme
 
 ## ⭐ <a href="https://www.goodreads.com/book/show/205495275-the-myth-of-american-idealism" target="_blank" rel="noopener noreferrer">The Myth of American Idealism</a>
 
-
 **Noam Chomsky and Nathan J. Robinson, 2024**<br>
 Tags: *history, politics, war*
 
