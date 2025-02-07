@@ -39,7 +39,7 @@ See Yanis Varoufaki's response (4:25 - 6:06) during his latest interview with No
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/onion-qaeda-plot.png" alt="Onion headline: FBI Uncovers Al-Qaeda Plot To Just Sit Back And Enjoy Collapse Of United States" style="width: 400px;">
 </figure>
 
-https://theonion.com/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-enjoy-c-1819576375/
+[https://theonion.com/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-enjoy-c-1819576375/](https://theonion.com/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-enjoy-c-1819576375/])
 
 ## The Immigrant Trump Voter's Perspective
 
@@ -57,4 +57,6 @@ https://theonion.com/fbi-uncovers-al-qaeda-plot-to-just-sit-back-and-enjoy-c-181
 
 > *Oh yes... Keep doing your thing, little orange man. We will have a nice spot for you in our techno-supremacist world order.*
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F002%2F265%2F962%2F2b6&f=1&nofb=1&ipt=c2b77d6bd866be18cae148681ac75d834d87440619a76812abf5cf9dfd3dac35&ipo=images)
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
+<img width="400" alt="Sicko standing outside window looking in saying YES HA HA HA YES" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F002%2F265%2F962%2F2b6&f=1&nofb=1&ipt=c2b77d6bd866be18cae148681ac75d834d87440619a76812abf5cf9dfd3dac35&ipo=images">
+</figure>
