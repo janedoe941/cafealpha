@@ -27,7 +27,7 @@ What in the world is Trump doing? As Steve Bannon originally advised, he's "floo
 
 > *He has the strategy of being intentionally outrageous, of causing you either to not take seriously what he says, which is a mistake, or to take too seriously what he says, which is also a mistake.*
 
-See Yanis Varoufaki's response (4:25 - 6:06) during his latest interview with Novara Media.
+See Yanis Varoufakis's response (4:25 - 6:06) during his latest interview with Novara Media.
 
 {% include video id="WQIRGmIa69U" provider="youtube" %}
 
@@ -55,7 +55,7 @@ See Yanis Varoufaki's response (4:25 - 6:06) during his latest interview with No
 
 ## The Tech Billionaire Plutocrat's Perspective
 
-> *Oh yes... Keep doing your thing, little orange man. We will have a nice spot for you in our techno-supremacist world order.*
+> *Oh yes... Keep doing your thing, little orange man. We will reserve a nice spot for you in our techno-supremacist world order.*
 
 <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 20px auto;">
 <img alt="Sicko standing outside window looking in saying YES HA HA HA YES" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F002%2F265%2F962%2F2b6&f=1&nofb=1&ipt=c2b77d6bd866be18cae148681ac75d834d87440619a76812abf5cf9dfd3dac35&ipo=images" style="width: 300px;">

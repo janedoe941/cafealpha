@@ -51,15 +51,33 @@ Brilliant memoir and insightful analysis of the resurgence of the far-right in t
 
 ## Extended recommendations
 
+### Memoirs
+
 ❤️ <b><a href="https://www.goodreads.com/book/show/35133922-educated" target="_blank" rel="noopener noreferrer">Educated</a></b> (Tara Westover, 2018)\
 Tags: *memoir, biography, family, education, feminism, religion*
 
 Powerful memoir chronicling the author's upbringing in an abusive, conspiratorial, hardcore survivalist Mormon household that denied her education and healthcare, and how she eventually escaped this environment. Thank you to my friend L. for the recommendation!
 
+❤️ <b><a href="https://www.goodreads.com/book/show/34673467-adults-in-the-room" target="_blank" rel="noopener noreferrer">
+ Adults in the Room: My Battle with Europe's Deep Establishment</a></b> (Yanis Varoufakis, 2017)
+
+👍 <b><a href="https://www.goodreads.com/book/show/464260.The_Fire_Next_Time" target="_blank" rel="noopener noreferrer">The Fire Next Time</a></b> (James Baldwin, 1963)
+
+ 👍 <b><a href=" https://www.goodreads.com/book/show/9646.Homage_to_Catalonia" target="_blank" rel="noopener noreferrer">
+ Homage to Catalonia</a></b> (George Orwell, 1938)
+
+<hr>
+
+### History
+
 👍 <b><a href="https://www.goodreads.com/book/show/403846.Caliban_and_the_Witch" target="_blank" rel="noopener noreferrer">Caliban and the Witch</a></b> (Silvia Federici, 2004)\
 Tags: *history, feminism, Marxism*
 
 I used to think that medieval witch hunts were the result of stupid peasant superstitions; this book makes the case that they resulted from a concerted political project to punish independent women and pressure them into an exclusively domestic, reproductive role during the early development of capitalism. Federici's chronicling ot peasant anti-feudal struggles makes this an instructive companion read to Jason Hickel's *Less Is More*.
+
+<hr>
+
+### Politics and Economics
 
 ⭐ <b><a href="https://www.goodreads.com/book/show/53328332-less-is-more" target="_blank" rel="noopener noreferrer">Less Is More: How Degrowth Will Save the World</a></b> (Jason Hickel, 2020)\
 Tags: *economics, history, sustainability, politics*
@@ -81,12 +99,46 @@ Tags: *veganism, food, health, science, politics*
 
 A comprehensive overview making the case for veganism. Covers most of the important topics: ethics and animal welfare, environment and climate, nutrition and health, and countering the prevailing narrative. I also recommend the author's YouTube channel <a href="https://www.youtube.com/@ed.winters" target="_blank" rel="noopener noreferrer">Earthling Ed</a>.
 
+👍 <b><a href="https://www.goodreads.com/book/show/404273.Blackshirts_and_Reds" target="_blank" rel="noopener noreferrer">
+Blackshirts and Redst</a></b> (Michael Parenti, 1997)
+
+👍 <b><a href="https://www.goodreads.com/book/show/404273.Blackshirts_and_Reds](https://www.goodreads.com/book/show/61279009-a-spectre-haunting)" target="_blank" rel="noopener noreferrer">A Spectre, Haunting: On the Communist Manifesto</a></b> (China Miéville, 2022)
+
+⭐ <b><a href="https://www.goodreads.com/book/show/21913812-this-changes-everything" target="_blank" rel="noopener noreferrer">This Changes Everything: Capitalism vs. The Climate</a></b> (Naomi Klein, 2014)
+
+👍 <b><a href="https://www.goodreads.com/book/show/32171783-out-of-the-wreckagee" target="_blank" rel="noopener noreferrer">Out of the Wreckage: A New Politics in the Age of Crisis</a></b> (George Monbiot, 2017)
+
+👍 <b><a href="https://www.goodreads.com/book/show/312957.Post_Scarcity_Anarchism" target="_blank" rel="noopener noreferrer">Post-Scarcity Anarchism</a></b> (Murray Bookchin, 1971)
+
+👍 <b><a href="https://www.goodreads.com/book/show/41883686-the-current-affairs-rules-for-life" target="_blank" rel="noopener noreferrer">The Current Affairs Rules For Life: On Social Justice & Its Critics</a></b> (Nathan J. Robinson, 2018)
+
+👍 <b><a href="https://www.goodreads.com/book/show/58968309-road-to-nowhere" target="_blank" rel="noopener noreferrer">Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation</a></b> (Paris Marx, 2022)
+
+<hr>
+
+### Science
+
+⭐ <b><a href="https://www.goodreads.com/book/show/7799004-merchants-of-doubt" target="_blank" rel="noopener noreferrer">Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming</a></b> (Naomi Oreskes and Erik M. Conway, 2010)
+
+👍 <b><a href="https://www.goodreads.com/book/show/404273.Blackshirts_and_Reds](https://www.goodreads.com/book/show/108939.The_Trouble_with_Physics)" target="_blank" rel="noopener noreferrer">The Trouble with Physics: The Rise of String Theory, the Fall of a Science and What Comes Next</a></b> (Lee Smolin, 2006)
+
+👍 <b><a href="https://www.goodreads.com/book/show/29767627-reality-is-not-what-it-seems" target="_blank" rel="noopener noreferrer">The Reality is Not What it Seems: The Journey to Quantum Gravity
+</a></b> (Carlo Rovelli, 2014)
+
+<hr>
+
+### Philosophy
+
 ⚠️ <b><a href="" target="_blank" rel="noopener noreferrer">The Art of Loving</a></b> (Erich Fromm, 1956)\
 Tags: *philosophy, psychology*
 
 An illuminating philosophical inquiry into the nature of love. However, the book is severely outdated in terms of its gender essentialist and heteronormative framing. Fromm's views on gender and homosexuality are likely a product of his time, but I cannot let the guy off the hook that easily: great thinkers, especially left-leaning ones like Fromm, should be expected to be able to peer beyond the tyranny of the status quo and identify areas where the emancipatory project has not yet been fulfilled. Nevertheless, although Fromm's blind spots are regrettable,  his basic thesis and delineation of love can be easily salvaged from these shortcomings.
 
 > *"If I truly love one person I love all persons, I love the world, I love life. If I can say to somebody else, 'I love you,' I must be able to say, 'I love in you everybody, I love through you the world, I love in you also myself.'"*
+
+<hr>
+
+### Psychology and Medicine
 
 👍 <b><a href="https://www.goodreads.com/book/show/617702.In_the_Realm_of_Hungry_Ghosts" target="_blank" rel="noopener noreferrer">In the Realm of Hungry Ghosts: Close Encounters with Addiction</a></b> (Gabor Maté, 2007)\
 Tags: *psychology, medicine, neuroscience*
